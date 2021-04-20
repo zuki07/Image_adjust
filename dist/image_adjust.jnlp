@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="image_adjust.jnlp">
+  <information>
+    <title>image_adjust</title>
+    <vendor>wildzuk</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="image_adjust.jar" size="8530" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="image_adjust.Image_adjust"  name="image_adjust" />
+  <update check="always"/>
+</jnlp>
