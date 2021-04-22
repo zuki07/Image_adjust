@@ -34,19 +34,19 @@
     4. Clicking on the Glow Effect button will turn on the glow effect.  
 <p align="center"><img src="images/glow_on.jpg"></p>
   <!-- ![added image](/images/added.jpg "Value added") -->
-</h4
+</h4>
 
 <h4 align="center">
     5. Clicking on the Glow Effect button again will turn off the glow effect.  
 <p align="center"><img src="images/glow_off.jpg"></p>
   <!-- ![added image](/images/added.jpg "Value added") -->
-</h4
+</h4>
 
 <h4 align="center">
     6. To exit the program, click on File drop down menu.  Then click on Exit.  
 <p align="center"><img src="images/exit.jpg"></p>
   <!-- ![added image](/images/added.jpg "Value added") -->
-</h4
+</h4>
 
 <!-- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). -->
 <!-- You can use the [editor on GitHub](https://github.com/zuki07/Load_file/edit/master/README.md) to maintain and preview the content for your website in Markdown files. -->
